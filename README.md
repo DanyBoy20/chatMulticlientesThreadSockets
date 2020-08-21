@@ -14,3 +14,5 @@ __Programa que representa la conexión en red entre el servidor y clientes a tra
 * OutputStream.
 * OutputStreamReader.
 * Writer.
+
+![](img/image.jpg)
